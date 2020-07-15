@@ -1,0 +1,17 @@
+{
+  "contributors": [
+    "Ken Stanley <support@dohpaz.dev>"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.23.3"
+  },
+  "description": "The back-end server using ExpressJS for Quarkboard.",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "lib/server.js",
+  "name": "@quarkboard/quarkboard-server",
+  "private": false,
+  "repository": "https://github.com/quarkboard/quarkboard-server.git",
+  "version": "0.1.0"
+}
