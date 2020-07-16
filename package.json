@@ -9,6 +9,13 @@
   },
   "description": "The back-end server using ExpressJS for Quarkboard.",
   "devDependencies": {},
+  "keywords": [
+    "back-end",
+    "express",
+    "plugin",
+    "quarkboard",
+    "smart mirror"
+  ],
   "license": "MIT",
   "main": "lib/server.js",
   "name": "@quarkboard/quarkboard-server",
