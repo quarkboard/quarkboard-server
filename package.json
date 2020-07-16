@@ -9,6 +9,9 @@
   },
   "description": "The back-end server using ExpressJS for Quarkboard.",
   "devDependencies": {},
+  "engines": {
+    "node": ">=11.13.0"
+  },
   "keywords": [
     "back-end",
     "express",
